@@ -1,0 +1,14 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: draft2.aux
+I couldn't open style file apsr.bst
+---line 3 of file draft2.aux
+ : \bibstyle{apsr
+ :               }
+I'm skipping whatever remains of this command
+I couldn't open database file ./master.bib.bib
+---line 43 of file draft2.aux
+ : \bibdata{./master.bib
+ :                      }
+I'm skipping whatever remains of this command
+I found no database files---while reading file draft2.aux
+I found no style file---while reading file draft2.aux
+(There were 4 error messages)

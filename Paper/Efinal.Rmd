@@ -1,0 +1,93 @@
+---
+title: 'Buidling Blocks: Understanding Market Functionality'
+author: "Earl Carlisle"
+date: "`r format(Sys.time(), '%B %d, %Y')`"
+output:
+  html_document:
+    df_print: paged
+  pdf_document:
+    citation_package: natbib
+    fig_caption: yes
+    keep_tex: yes
+    latex_engine: pdflatex
+    template: ./svm-latex-ms.tex
+biblio-style: apsr
+fontfamily: mathpazo
+fontsize: 11pt
+geometry: margin=1in
+keywords: null
+bibliography: ./master.bib
+spacing: double
+abstract: In this article ...
+---
+
+
+1. Read the paper _What Should Economists Do?_ by James M. Buchanan. 
+  - Outline what Buchanan's main point is.
+  - What does Buchanan mean by the word ___catallatics___?
+  - According to Buchanan what do most economists do?
+  - What does he think they should do differently?
+
+# *Answer to 1*
+
+Buchanan's main point is that is that economists shouldn't focus on the simple idea of choice allocation. On page 214, he states "Only since ___The Nature and Significance of Economic Science___ @buchanan1964 should have economists so exclusively devoted their energies to the problems raised by scarcity, ..., and to the necessity for the making of allocative decisions. He thinks that economists should focus more of their time on working on catallactics. A quick Wikipedia search and you can get a rough idea of what this means. According to the article "Catallactics is a theory of the way the free market system reaches exchange ratios and prices.  It aims to analyze all actions based on monetary calculation and trace the formation of prices back to the point where an agent makes his or her choices. It explains prices as they are, rather than as they "should" be." This essentially means that the economists should not focus on their simplified equilibrium models, but instead, focus on the broader picture. Buchanan quotes Adam Smith as the foundation of markets, stating "is not originally the effects of any human wisdom, which foresees and intends that general opulence to which it gives occasion. It is the necessary, though very slow and gradual, consequence of a certain propensity in human nature which has in view no such extensive utility; the propensity to truck, barter, and exchange one thing for another." It's this last phrase that should be focused on. This is what markets are based on, as alluded by Buchanan. This is what he wants more economists to focus on. It's this market system that Buchanan refers to as catallactics. 
+
+As I have alluded before hand, economists at this point in time focused way to much on this choice allocation theory. They used perfect equilibrium models to postulate how a market should be. They replace the individual with the society and only focus on that. They fail to understand that it's the individual, exercising their agency to better themselves, to establish the market under inspection. 
+
+Buchanan believes that economists believe that should focus on other areas, and not hone in on this one specific area of their science. He insists that more focus be set on how individuals enter into contacts with each other. In other words, he believes that the idea of how market structures should be expanded and analyzed. The view of economics should be broadened to apply to all aspects of life. This is because almost all interactions can be viewed as economic interactions (with some mixture of political interaction). 
+
+
+
+# *Abstract*
+
+The purpose of this paper is to aggregate, at least in part, some of the writings and criticisms of economists. To many economists focus on simplified, perfect models. They either forget, or ignore what originally created these simplified markets. All of them, somehow, stemmed from humanities "propensity to truck, barter, and exchange one thing for another" @buchanan1964should(quoting Adam Smith). This paper pulls from several economic disciplines in order nudge economists to return to their roots of examining markets in order understand, and postulate what makes them.
+
+# *Introduction*
+
+This paper is an attempt, and a rather poor one at that, of aggregating some of the extensive knowledge of our economic predecessors. Drawing upon their extensive knowledge, a presentation will be made for why economists should examine the framework that creates their model. The idea that Buchanan (buchanan1964should) put forth is that economists should look at all interactions as a mix of political and economic. They should not simply be focused on the model, but they should examine what makes the model: daily interaction among individuals. It was this lack of examination that Buchanan criticized originally. This paper has the intent to continue on that noble work and help us all be better to understand our daily interaction, and how to better model it in our desire to further understand, and push, the bounds of human ability. As Buchanan stated "Learning more about how markets work means learning more about how markets work." @buchanan1964should
+
+# *Outline*
+
+The gist of the paper will be to examine each reference and build a framework that will help economists understand that the model is not the only thing. Especially since most of these models are simplified. Modeling itself is not the problem, but it's the sole focus on them. The limits of these models must realized and understood in their presentations. I don't have the final idea nailed down, but it will probably go something like
+
+-Intro 
+-discussion of Hayek and Buchanan to set the foundation 
+-Heading to North to discuss the historical aspects of framework 
+-Discussion on Ostrom as an example of good practices 
+- One paper from Hedlund for more examples 
+-Conclusion 
+-Invitation to change and wide spread applicability (All decisions are economic, unless rent seeking via polilticians (Buchanan)).
+
+# *References*
+
+@buchanan1987constitution This Nobel speech will also be used to help shed light on why it's important to examine and explain the structure that one is using as an economic model. The model itself is not enough to explain things. The background and where it comes from is important too.
+
+@Hayek1989pretence Will be used to discuss Scientism and expound upon the original article that started this paper. Will help us understand that we need to look at the structure of what we are doing, before we simply dive in with a model.
+
+@ostrom2010beyond We will use Ostrom to continue to demonstrate this principle. She advocated for the use of models only after field work has done. The model should be created after after field work has been done, and then lab work should be done after the model is created. This is done to prove that what is done in the field can be replicated in the lab.
+
+@north1994economic This paper will be used as another voice in order to explain the importance of examining the structure of the model before it is simply used.
+
+@buchanan1964should This is the foundation of the paper. This is where the fountain of understanding comes from. It's important to understand the structure of the model, and see what is actually doing. See where the outside world creates the model, and don't just assume it's correct because it is mathematically efficient.
+
+@article{Hayek1989pretence, title={The pretence of knowledge}, author={Hayek, Friedrich August}, journal={The American Economic Review}, volume={79}, number={6}, pages={3--7}, year={1989}, publisher={JSTOR} }
+
+@article{buchanan1987constitution, title={The constitution of economic policy}, author={Buchanan, James M}, journal={The American economic review}, volume={77}, number={3}, pages={243--250}, year={1987}, publisher={JSTOR} }
+
+@article{north1994economic, title={Economic performance through time}, author={North, Douglass C}, journal={The American economic review}, volume={84}, number={3}, pages={359--368}, year={1994}, publisher={JSTOR} }
+
+@article{ostrom2010beyond, title={Beyond markets and states: polycentric governance of complex economic systems}, author={Ostrom, Elinor}, journal={American economic review}, volume={100}, number={3}, pages={641--72}, year={2010} }
+
+@article{buchanan1964should, title={What should economists do?}, author={Buchanan, James M}, journal={Southern Economic Journal}, pages={213--222}, year={1964}, publisher={JSTOR} }
+
+https://en.wikipedia.org/wiki/Catallactics
+
+<!--
+# References
+\setlength{\parindent}{-0.2in}
+\setlength{\leftskip}{0.2in}
+\setlength{\parskip}{8pt}
+\vspace*{-0.2in}
+\noindent
+-->
+
